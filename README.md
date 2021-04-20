@@ -8,6 +8,30 @@ https://github.com/yangarbiter/robust-local-lipschitz
 
 https://github.com/interpretml/interpret
 
+https://mlu.red/muse/52906366310.html
+
+https://medium.com/plotly/building-and-deploying-explainable-ai-dashboards-using-dash-and-shap-8e0a0a45beb6
+
+https://github.com/plotly/dash-sample-apps/tree/master/apps/dash-cuml-umap
+
+https://github.com/plotly/dash-sample-apps/tree/master/apps/dash-cuml-umap
+
+https://interpret.ml/
+
+
+
 # automl
+
+https://www.kaggle.com/sukanthen/automl-for-all-pycaret-and-tpot
+
+https://docs.ray.io/en/master/tune/tutorials/tune-xgboost.html
+
+https://interpret.ml/
+
+https://www.vanderschaar-lab.com/automl-powering-the-new-human-machine-learning-ecosystem/
+
+https://mlflow.org/
+
+
 
 
