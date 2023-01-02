@@ -1,5 +1,11 @@
 # iml
 
+https://ai.stanford.edu/blog/causal-abstraction/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_301
+
+https://github.com/interpretml/kdd2022-tutorial
+
+https://github.com/SelfExplainML/PiML-Toolbox#Example
+
 https://scholar.google.com/citations?hl=en&user=pcCS60IAAAAJ&view_op=list_works&sortby=pubdate
 
 https://leanpub.com/interpretable-machine-learning
